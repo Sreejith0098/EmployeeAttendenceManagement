@@ -15,7 +15,7 @@ const Header = () => {
               height="30"
               className="d-inline-block align-top"
             />{" "}
-            <span className="font-bolder fs-4 "> EmployeeAttendenceManagement</span>
+            <span className="font-bolder fs-4 "> EmployeeAttendanceManagement</span>
           </Navbar.Brand>
         </Container>
       </Navbar>
